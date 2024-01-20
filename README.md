@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-My name is Ricardo Villamar, I am 20 years old and I am a young developer living in Ecuador💻, I study Software Engineering at the University of Guayaquil👨‍💻<br><br>I am an enthusiastic young man, who likes to learn new technologies and develop new skills📖, I am passionate about programming, I am an organized person capable of quickly adapting to the situation😊.<br><br>I adopt the philosophy of prioritizing quality over quantity, recognizing that excellence at work is essential to achieving outstanding results.🚀<br><br>I am happy to provide support to others and share my knowledge with people. 🌱<br><br>And as an additional fact, I like cats 🐱and a fan of phonk music 🎶. <br><br>Let's code! ✨<br>
+My name is Ricardo Villamar, I am 20 years old and I am a young developer living in Ecuador💻, I study Software Engineering at the University of Guayaquil👨‍💻<br><br>I am an enthusiastic young man, who likes to learn new technologies and develop new skills📖, I am passionate about programming, I am an organized person capable of quickly adapting to the situation😊.<br><br>I adopt the philosophy of prioritizing quality over quantity, recognizing that excellence at work is essential to achieving outstanding results.🚀<br><br>I am happy to provide support to others and share my knowledge with people. 🌱<br><br>And as an additional fact, I like cats🐱 and a fan of phonk music 🎶. <br><br>Let's code! ✨<br>
 
 
 # 💻 Tech Stack:
